@@ -1,2 +1,2 @@
-- 名称：上游同步
-  用途：aormsby/Fork-Sync-With-Upstream-action@v3.3.1
+- name: Upstream Sync
+  uses: aormsby/Fork-Sync-With-Upstream-action@v3.3.1
