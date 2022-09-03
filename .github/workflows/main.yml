@@ -2,7 +2,6 @@
 name: Sync Fork
 
 on:
-  push: # push 时触发, 主要是为了测试配置有没有问题
   schedule:
     - cron: '*/5 * * * *' # every 30 minutes
 jobs:
